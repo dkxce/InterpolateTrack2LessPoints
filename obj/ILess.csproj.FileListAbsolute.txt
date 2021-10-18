@@ -1,0 +1,9 @@
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\obj\Debug\KMZRebuilder.InterLessForm.resources
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\obj\Debug\ILess.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\bin\ILess.exe
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\bin\ILess.pdb
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\bin\CuttingGeometries.dll
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\bin\NaviMapNet.dll
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\obj\Debug\ILess.exe
+C:\Downloads\CD-REC\TEST\AGWPEAPI\ILess\obj\Debug\ILess.pdb
